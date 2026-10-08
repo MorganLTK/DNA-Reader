@@ -10,18 +10,7 @@
 		//incrementing the respective count for each type of nucleotide in the DNA string
 		for (char c : DNAString)
 		{
-			if (c == 'A') {
-				m['A']++;
-			}
-			if (c == 'T') {
-				m['T']++;
-			}
-			if (c == 'C') {
-				m['C']++;
-			}
-			if (c == 'G') {
-				m['G']++;
-			}
+			m[c]++;
 		}
 
 		return m;
