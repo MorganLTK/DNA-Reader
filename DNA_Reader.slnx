@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DNA_Reader/DNA_Reader.vcxproj" Id="529e9021-45ef-4e91-b540-e73544239217" />
+</Solution>
